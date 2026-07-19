@@ -7,7 +7,7 @@ plugins {
 }
 
 android {
-    namespace = "dev.akash.dsamaster"
+    namespace = "com.example.dsamaster"
     compileSdk = 35
 
     defaultConfig {
