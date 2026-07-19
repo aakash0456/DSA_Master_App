@@ -11,7 +11,7 @@ android {
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.dsamasterio.github.aakash0456.dsamaster"
+        applicationId = "io.github.aakash0456.dsamaster"
         minSdk = 26
         targetSdk = 35
         versionCode = 1
