@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- Simple binary-tree mark -->
+    <path android:strokeColor="#7FDBCA" android:strokeWidth="4" android:strokeLineCap="round"
+        android:pathData="M54,38 L36,60 M54,38 L72,60 M36,60 L28,78 M36,60 L44,78 M72,60 L64,78 M72,60 L80,78" />
+    <path android:fillColor="#FFFFFF" android:pathData="M54,30 m-8,0 a8,8 0 1,1 16,0 a8,8 0 1,1 -16,0" />
+    <path android:fillColor="#7FDBCA" android:pathData="M36,60 m-6,0 a6,6 0 1,1 12,0 a6,6 0 1,1 -12,0" />
+    <path android:fillColor="#7FDBCA" android:pathData="M72,60 m-6,0 a6,6 0 1,1 12,0 a6,6 0 1,1 -12,0" />
+    <path android:fillColor="#FFC777" android:pathData="M28,78 m-5,0 a5,5 0 1,1 10,0 a5,5 0 1,1 -10,0" />
+    <path android:fillColor="#FFC777" android:pathData="M44,78 m-5,0 a5,5 0 1,1 10,0 a5,5 0 1,1 -10,0" />
+    <path android:fillColor="#FFC777" android:pathData="M64,78 m-5,0 a5,5 0 1,1 10,0 a5,5 0 1,1 -10,0" />
+    <path android:fillColor="#FFC777" android:pathData="M80,78 m-5,0 a5,5 0 1,1 10,0 a5,5 0 1,1 -10,0" />
+</vector>
